@@ -190,7 +190,7 @@
         "alliances": ["House Stark", "House Baratheon"],
         "episodes": ["Blackwater", "The Lion and the Rose", "The Children", "The Iron Throne"],
         "age": 50,
-        "image":"https://static.wikia.nocookie.net/p__/images/b/b0/Davos_Seaworth_2.jpg/revision/latest?cb=20170125224137&path-prefix=protagonist"
+        "image":"https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/5b/Davos_seaworth_photo.jpg"
       },
       {
         "id": 17,
@@ -250,7 +250,7 @@
             "alliances": ["Targaryen", "Mormont"],
             "religions": ["Antiguos Dioses del Bosque"],
             "foundation": "04/05/-300",
-            "image":"https://static.wikia.nocookie.net/hieloyfuego/images/3/32/Casa_Stark_escudo.png/revision/latest?cb=20150129151112" 
+            "image":"https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/1200px-House_Stark.svg.png" 
           },
           {
             "id": 2,
@@ -260,7 +260,7 @@
             "alliances": ["Baratheon", "Tyrell"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-1000",
-            "image":"https://static.wikia.nocookie.net/hieloyfuego/images/f/ff/Casa_Lannister_HBO.png/revision/latest?cb=20220807143154" 
+            "image":"https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/1200px-House_Lannister.svg.png" 
           },
           {
             "id": 3,
@@ -270,7 +270,7 @@
             "alliances": ["Lannister", "Stark"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-500",
-            "image":"https://static.wikia.nocookie.net/hieloyfuego/images/1/13/Casa_Baratheon_estandarte.png/revision/latest?cb=20161230200810" 
+            "image":"https://throneslife.files.wordpress.com/2013/06/baratheon-sigil.png" 
           },
           {
             "id": 4,
@@ -330,7 +330,7 @@
             "alliances": ["Tully", "Stark"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-1000",
-            "image":"https://static.wikia.nocookie.net/hieloyfuego/images/3/3b/Casa_Arryn.png/revision/latest?cb=20210718203113" 
+            "image":"https://throneslife.files.wordpress.com/2014/03/544px-house_arryn.png" 
           },
           {
             "id": 10,
@@ -350,7 +350,7 @@
             "alliances": ["Lannister", "Bolton"],
             "religions": ["Fe de los Siete"],
             "foundation": "01/01/-600",
-            "image":"https://static.wikia.nocookie.net/awoiaf-rp/images/a/af/House-Frey-Main-Shield.png/revision/latest?cb=20180102000517" 
+            "image":"https://awoiaf.westeros.org/images/thumb/d/da/House_Frey.svg/1200px-House_Frey.svg.png" 
           },
           {
             "id": 12,
@@ -360,7 +360,7 @@
             "alliances": ["Stark", "Targaryen"],
             "religions": ["Antiguos Dioses del Bosque"],
             "foundation": "01/01/-700",
-            "image":"https://static.wikia.nocookie.net/ironthroneroleplaygame/images/9/95/Mormont.png/revision/latest?cb=20190427180051" 
+            "image":"https://awoiaf.westeros.org/images/thumb/4/46/House_Mormont.svg/1200px-House_Mormont.svg.png" 
           },
           {
             "id": 13,
